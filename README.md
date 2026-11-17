@@ -91,3 +91,24 @@ The project includes practical scenarios involving:
 This is a self-directed practical training project using a fictional company and simulated business transactions.
 
 It demonstrates hands-on practice with standard Odoo 20.0 Enterprise Edition Purchase and Inventory workflows. It does not represent a real company implementation or professional employment experience.
+
+---
+
+## 📂 Project Documentation
+
+Explore the practical workflows and screenshots:
+
+### 1. Procurement
+[View Procurement Workflow](./01-Procurement/)
+
+### 2. Warehouse Operations
+[View Warehouse Operations](./02-Warehouse-Operations/)
+
+### 3. Inventory Control
+[View Inventory Control](./03-Inventory-Control/)
+
+### 4. Traceability & FEFO
+[View Traceability & FEFO](./04-Traceability-FEFO/)
+
+
+
